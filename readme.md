@@ -5,7 +5,7 @@
 #### Tecnologia utilizada
 - react-markdown
 
-_Desenvolvido com 💜 por Junior042_
+_Desenvolvido com 💜 por NatsuJr004_
 
 ----
 
@@ -16,4 +16,4 @@ _Desenvolvido com 💜 por Junior042_
 #### Technology used
 - react-markdown
 
-_Developed with 💜 by Junior042_
+_Developed with 💜 by NatsuJr004_
